@@ -1,0 +1,6 @@
+total 6812
+drwxr-xr-x 2 vercel-sandbox vercel-sandbox      90 Oct 27 22:06 .
+drwxr-xr-x 4 vercel-sandbox vercel-sandbox     257 Oct 27 21:58 ..
+-rw-r--r-- 1 vercel-sandbox vercel-sandbox 3190245 Oct 27 22:07 hinged-gate-two-arm.mp4
+-rw-r--r-- 1 vercel-sandbox vercel-sandbox 1847770 Oct 27 22:07 shutter-warehouse.mp4
+-rw-r--r-- 1 vercel-sandbox vercel-sandbox 1929358 Oct 27 22:07 sliding-gate.mp4
